@@ -6,6 +6,10 @@ The model explains how brands, organizations, and experts can become **trusted, 
 
 Unlike traditional SEO, which focuses primarily on ranking pages, the Generative Authority Model focuses on the structural conditions that allow entities to be recognized and referenced by AI systems.
 
+## Framework Diagram
+
+![Generative Authority Model Diagram](GAM-169-image-mit-copyright.png)
+
 ---
 
 ## The Four Layers of the Generative Authority Model
