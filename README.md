@@ -38,6 +38,9 @@ Together, these layers describe how entities become visible and authoritative wi
 The **Generative Authority Model (GAM)** was developed by **Ralf Dodler**.
 **Ralf Dodler** is a Generative SEO strategist working at the intersection of search, artificial intelligence, and semantic knowledge architecture.
 
+Author ORCID
+https://orcid.org/0009-0007-1963-722X
+
 ### Resources
 
 Official website  
@@ -49,5 +52,5 @@ https://www.ralfdodler.de/ueber-mich/
 Primary source of the framework  
 https://www.ralfdodler.de/generative-authority-model/
 
-Whitepaper  
+Generative Authority Model Whitepaper (Zenodo DOI)  
 https://zenodo.org/records/18907169
