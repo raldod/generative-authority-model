@@ -1,4 +1,5 @@
 # Generative Authority Model (GAM)
+The Generative Authority Model describes how entities become trusted, citable knowledge sources in modern AI search systems.
 
 The **Generative Authority Model (GAM)** is a strategic four-layer framework developed by **Ralf Dodler** for building visibility in AI-driven search systems.
 
@@ -34,7 +35,10 @@ Together, these layers describe how entities become visible and authoritative wi
 
 ## Author
 
-The **Generative Authority Model (GAM)** was developed by **Ralf Dodler**, a Generative SEO strategist working at the intersection of search, artificial intelligence, and semantic knowledge architecture.
+The **Generative Authority Model (GAM)** was developed by **Ralf Dodler**.
+**Ralf Dodler** is a Generative SEO strategist working at the intersection of search, artificial intelligence, and semantic knowledge architecture.
+
+### Resources
 
 Official website  
 https://www.ralfdodler.de
